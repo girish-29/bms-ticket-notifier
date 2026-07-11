@@ -620,23 +620,25 @@ def main():
 
     save_state(new_state)
 
-    if changes:
-    print(f"\n  ⚡ {len(changes)} change(s) detected:")
-    for c in changes:
-        print(f"     {c}")
+        if changes:
+        print(f"\n  ⚡ {len(changes)} change(s) detected:")
+        for c in changes:
+            print(f"     {c}")
 
-    message = (
-        f"🚨 {movie_info['name']}\n\n"
-        f"{len(changes)} change(s) detected.\n\n"
-        + "\n".join(changes[:10])
-    )
+        message = (
+            f"🚨 {movie_info['name']}\n\n"
+            f"{len(changes)} change(s) detected.\n\n"
+            + "\n".join(changes[:10])
+        )
 
-    send_telegram(message)
+        send_telegram(message)
 
-    send_email(
-        f"BMS Alert: {movie_info['name']} - {len(changes)} change(s)",
-        changes, filtered, movie_info,
-    )
+        send_email(
+            f"BMS Alert: {movie_info['name']} - {len(changes)} change(s)",
+            changes,
+            filtered,
+            movie_info,
+        )
     else:
         print("  ✅ No changes since last check.")
 
