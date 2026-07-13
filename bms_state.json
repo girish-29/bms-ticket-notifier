@@ -1,173 +1,109 @@
 {
   "shows": {
-    "ALUC|3011|20260730|3D PLATINUM": {
+    "ALUC|3016|20260731|3D PLATINUM": {
       "venue": "ALLU Cinemas: Kokapet",
       "time": "10:00 AM",
-      "date": "20260730",
+      "date": "20260731",
       "cat": "3D PLATINUM",
       "price": "450.00",
       "status": "0"
     },
-    "ALUC|3011|20260730|3D GOLD": {
+    "ALUC|3016|20260731|3D GOLD": {
       "venue": "ALLU Cinemas: Kokapet",
       "time": "10:00 AM",
-      "date": "20260730",
+      "date": "20260731",
       "cat": "3D GOLD",
       "price": "395.00",
       "status": "0"
     },
-    "ALUC|3011|20260730|3D DIRECTOR CHOICE": {
+    "ALUC|3016|20260731|3D DIRECTOR CHOICE": {
       "venue": "ALLU Cinemas: Kokapet",
       "time": "10:00 AM",
-      "date": "20260730",
+      "date": "20260731",
       "cat": "3D DIRECTOR CHOICE",
       "price": "450.00",
       "status": "0"
     },
-    "ALUC|3011|20260730|3D GOLD.": {
+    "ALUC|3016|20260731|3D GOLD.": {
       "venue": "ALLU Cinemas: Kokapet",
       "time": "10:00 AM",
-      "date": "20260730",
-      "cat": "3D GOLD.",
-      "price": "395.00",
-      "status": "0"
-    },
-    "ALUC|3012|20260730|3D PLATINUM": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "01:15 PM",
-      "date": "20260730",
-      "cat": "3D PLATINUM",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|3012|20260730|3D GOLD": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "01:15 PM",
-      "date": "20260730",
-      "cat": "3D GOLD",
-      "price": "395.00",
-      "status": "0"
-    },
-    "ALUC|3012|20260730|3D DIRECTOR CHOICE": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "01:15 PM",
-      "date": "20260730",
-      "cat": "3D DIRECTOR CHOICE",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|3012|20260730|3D GOLD.": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "01:15 PM",
-      "date": "20260730",
+      "date": "20260731",
       "cat": "3D GOLD.",
       "price": "395.00",
       "status": "1"
     },
-    "ALUC|3013|20260730|3D PLATINUM": {
+    "ALUC|3017|20260731|3D PLATINUM": {
       "venue": "ALLU Cinemas: Kokapet",
-      "time": "04:30 PM",
-      "date": "20260730",
+      "time": "01:10 PM",
+      "date": "20260731",
       "cat": "3D PLATINUM",
       "price": "450.00",
       "status": "0"
     },
-    "ALUC|3013|20260730|3D GOLD": {
+    "ALUC|3017|20260731|3D GOLD": {
       "venue": "ALLU Cinemas: Kokapet",
-      "time": "04:30 PM",
-      "date": "20260730",
+      "time": "01:10 PM",
+      "date": "20260731",
       "cat": "3D GOLD",
       "price": "395.00",
       "status": "0"
     },
-    "ALUC|3013|20260730|3D DIRECTOR CHOICE": {
+    "ALUC|3017|20260731|3D DIRECTOR CHOICE": {
       "venue": "ALLU Cinemas: Kokapet",
-      "time": "04:30 PM",
-      "date": "20260730",
+      "time": "01:10 PM",
+      "date": "20260731",
       "cat": "3D DIRECTOR CHOICE",
       "price": "450.00",
       "status": "0"
     },
-    "ALUC|3013|20260730|3D GOLD.": {
+    "ALUC|3017|20260731|3D GOLD.": {
       "venue": "ALLU Cinemas: Kokapet",
-      "time": "04:30 PM",
-      "date": "20260730",
+      "time": "01:10 PM",
+      "date": "20260731",
       "cat": "3D GOLD.",
       "price": "395.00",
       "status": "1"
     },
-    "ALUC|3014|20260730|3D PLATINUM": {
+    "ALUC|3018|20260731|3D PLATINUM": {
       "venue": "ALLU Cinemas: Kokapet",
-      "time": "07:45 PM",
-      "date": "20260730",
+      "time": "08:00 PM",
+      "date": "20260731",
       "cat": "3D PLATINUM",
       "price": "450.00",
       "status": "0"
     },
-    "ALUC|3014|20260730|3D GOLD": {
+    "ALUC|3018|20260731|3D GOLD": {
       "venue": "ALLU Cinemas: Kokapet",
-      "time": "07:45 PM",
-      "date": "20260730",
+      "time": "08:00 PM",
+      "date": "20260731",
       "cat": "3D GOLD",
       "price": "395.00",
       "status": "0"
     },
-    "ALUC|3014|20260730|3D DIRECTOR CHOICE": {
+    "ALUC|3018|20260731|3D DIRECTOR CHOICE": {
       "venue": "ALLU Cinemas: Kokapet",
-      "time": "07:45 PM",
-      "date": "20260730",
+      "time": "08:00 PM",
+      "date": "20260731",
       "cat": "3D DIRECTOR CHOICE",
       "price": "450.00",
       "status": "0"
     },
-    "ALUC|3014|20260730|3D GOLD.": {
+    "ALUC|3018|20260731|3D GOLD.": {
       "venue": "ALLU Cinemas: Kokapet",
-      "time": "07:45 PM",
-      "date": "20260730",
+      "time": "08:00 PM",
+      "date": "20260731",
       "cat": "3D GOLD.",
       "price": "395.00",
       "status": "1"
-    },
-    "ALUC|3015|20260730|3D PLATINUM": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 PM",
-      "date": "20260730",
-      "cat": "3D PLATINUM",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|3015|20260730|3D GOLD": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 PM",
-      "date": "20260730",
-      "cat": "3D GOLD",
-      "price": "395.00",
-      "status": "0"
-    },
-    "ALUC|3015|20260730|3D DIRECTOR CHOICE": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 PM",
-      "date": "20260730",
-      "cat": "3D DIRECTOR CHOICE",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|3015|20260730|3D GOLD.": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 PM",
-      "date": "20260730",
-      "cat": "3D GOLD.",
-      "price": "395.00",
-      "status": "0"
     }
   },
   "dates": {
-    "20260730": "BOOKABLE",
-    "20260731": "AVAILABLE",
+    "20260731": "BOOKABLE",
     "20260801": "AVAILABLE",
     "20260802": "AVAILABLE",
     "20260803": "AVAILABLE",
     "20260804": "AVAILABLE",
-    "20260805": "AVAILABLE"
+    "20260805": "AVAILABLE",
+    "20260806": "NOT_OPEN"
   }
 }
