@@ -1,44 +1,12 @@
 {
   "shows": {
-    "ALUC|3053|20260804|3D PLATINUM": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "10:00 AM",
-      "date": "20260804",
-      "cat": "3D PLATINUM",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|3053|20260804|3D GOLD": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "10:00 AM",
-      "date": "20260804",
-      "cat": "3D GOLD",
-      "price": "395.00",
-      "status": "0"
-    },
-    "ALUC|3053|20260804|3D DIRECTOR CHOICE": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "10:00 AM",
-      "date": "20260804",
-      "cat": "3D DIRECTOR CHOICE",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|3053|20260804|3D GOLD.": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "10:00 AM",
-      "date": "20260804",
-      "cat": "3D GOLD.",
-      "price": "395.00",
-      "status": "2"
-    },
     "ALUC|3054|20260804|3D PLATINUM": {
       "venue": "ALLU Cinemas: Kokapet",
       "time": "01:10 PM",
       "date": "20260804",
       "cat": "3D PLATINUM",
       "price": "450.00",
-      "status": "0"
+      "status": "2"
     },
     "ALUC|3054|20260804|3D GOLD": {
       "venue": "ALLU Cinemas: Kokapet",
@@ -46,7 +14,7 @@
       "date": "20260804",
       "cat": "3D GOLD",
       "price": "395.00",
-      "status": "0"
+      "status": "1"
     },
     "ALUC|3054|20260804|3D DIRECTOR CHOICE": {
       "venue": "ALLU Cinemas: Kokapet",
@@ -54,7 +22,7 @@
       "date": "20260804",
       "cat": "3D DIRECTOR CHOICE",
       "price": "450.00",
-      "status": "0"
+      "status": "1"
     },
     "ALUC|3054|20260804|3D GOLD.": {
       "venue": "ALLU Cinemas: Kokapet",
@@ -70,7 +38,7 @@
       "date": "20260804",
       "cat": "3D PLATINUM",
       "price": "450.00",
-      "status": "0"
+      "status": "1"
     },
     "ALUC|3150|20260804|3D GOLD": {
       "venue": "ALLU Cinemas: Kokapet",
@@ -78,7 +46,7 @@
       "date": "20260804",
       "cat": "3D GOLD",
       "price": "395.00",
-      "status": "0"
+      "status": "1"
     },
     "ALUC|3150|20260804|3D DIRECTOR CHOICE": {
       "venue": "ALLU Cinemas: Kokapet",
@@ -86,7 +54,7 @@
       "date": "20260804",
       "cat": "3D DIRECTOR CHOICE",
       "price": "450.00",
-      "status": "0"
+      "status": "1"
     },
     "ALUC|3150|20260804|3D GOLD.": {
       "venue": "ALLU Cinemas: Kokapet",
