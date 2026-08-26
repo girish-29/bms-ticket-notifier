@@ -1,78 +1,109 @@
 {
   "shows": {
-    "ALUC|3404|20260806|3D PLATINUM": {
+    "ALUC|4363|20260826|PLATINUM": {
       "venue": "ALLU Cinemas: Kokapet",
-      "time": "07:45 PM",
-      "date": "20260806",
-      "cat": "3D PLATINUM",
+      "time": "03:25 PM",
+      "date": "20260826",
+      "cat": "PLATINUM",
       "price": "450.00",
       "status": "0"
     },
-    "ALUC|3404|20260806|3D GOLD": {
+    "ALUC|4363|20260826|DIRECTOR CHOICE": {
       "venue": "ALLU Cinemas: Kokapet",
-      "time": "07:45 PM",
-      "date": "20260806",
-      "cat": "3D GOLD",
+      "time": "03:25 PM",
+      "date": "20260826",
+      "cat": "DIRECTOR CHOICE",
+      "price": "450.00",
+      "status": "0"
+    },
+    "ALUC|4363|20260826|GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "03:25 PM",
+      "date": "20260826",
+      "cat": "GOLD",
+      "price": "395.00",
+      "status": "0"
+    },
+    "ALUC|4363|20260826|GOLD.": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "03:25 PM",
+      "date": "20260826",
+      "cat": "GOLD.",
+      "price": "395.00",
+      "status": "0"
+    },
+    "ALUC|4310|20260826|PLATINUM": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "07:20 PM",
+      "date": "20260826",
+      "cat": "PLATINUM",
+      "price": "450.00",
+      "status": "0"
+    },
+    "ALUC|4310|20260826|DIRECTOR CHOICE": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "07:20 PM",
+      "date": "20260826",
+      "cat": "DIRECTOR CHOICE",
+      "price": "450.00",
+      "status": "0"
+    },
+    "ALUC|4310|20260826|GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "07:20 PM",
+      "date": "20260826",
+      "cat": "GOLD",
+      "price": "395.00",
+      "status": "0"
+    },
+    "ALUC|4310|20260826|GOLD.": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "07:20 PM",
+      "date": "20260826",
+      "cat": "GOLD.",
+      "price": "395.00",
+      "status": "0"
+    },
+    "ALUC|4311|20260826|PLATINUM": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "11:15 PM",
+      "date": "20260826",
+      "cat": "PLATINUM",
+      "price": "450.00",
+      "status": "0"
+    },
+    "ALUC|4311|20260826|DIRECTOR CHOICE": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "11:15 PM",
+      "date": "20260826",
+      "cat": "DIRECTOR CHOICE",
+      "price": "450.00",
+      "status": "0"
+    },
+    "ALUC|4311|20260826|GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "11:15 PM",
+      "date": "20260826",
+      "cat": "GOLD",
       "price": "395.00",
       "status": "1"
     },
-    "ALUC|3404|20260806|3D DIRECTOR CHOICE": {
+    "ALUC|4311|20260826|GOLD.": {
       "venue": "ALLU Cinemas: Kokapet",
-      "time": "07:45 PM",
-      "date": "20260806",
-      "cat": "3D DIRECTOR CHOICE",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|3404|20260806|3D GOLD.": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "07:45 PM",
-      "date": "20260806",
-      "cat": "3D GOLD.",
+      "time": "11:15 PM",
+      "date": "20260826",
+      "cat": "GOLD.",
       "price": "395.00",
       "status": "1"
-    },
-    "ALUC|3405|20260806|3D PLATINUM": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 PM",
-      "date": "20260806",
-      "cat": "3D PLATINUM",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|3405|20260806|3D GOLD": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 PM",
-      "date": "20260806",
-      "cat": "3D GOLD",
-      "price": "395.00",
-      "status": "0"
-    },
-    "ALUC|3405|20260806|3D DIRECTOR CHOICE": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 PM",
-      "date": "20260806",
-      "cat": "3D DIRECTOR CHOICE",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|3405|20260806|3D GOLD.": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 PM",
-      "date": "20260806",
-      "cat": "3D GOLD.",
-      "price": "395.00",
-      "status": "2"
     }
   },
   "dates": {
-    "20260806": "BOOKABLE",
-    "20260807": "AVAILABLE",
-    "20260808": "AVAILABLE",
-    "20260809": "AVAILABLE",
-    "20260810": "AVAILABLE",
-    "20260811": "AVAILABLE",
-    "20260812": "AVAILABLE",
-    "20260813": "AVAILABLE"
+    "20260826": "BOOKABLE",
+    "20260827": "AVAILABLE",
+    "20260828": "NOT_OPEN",
+    "20260829": "NOT_OPEN",
+    "20260830": "NOT_OPEN",
+    "20260831": "NOT_OPEN",
+    "20260901": "NOT_OPEN"
   }
 }
