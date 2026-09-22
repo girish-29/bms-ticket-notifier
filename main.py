@@ -635,8 +635,8 @@ def main():
 
         message = (
             f"🎬 {movie_info['name']}\n\n"
-            f"📍 Theatre: ALLU Cinemas: Kokapet\n"
-            f"🎟 Format: Dolby Cinema 3D\n\n"
+            f"📍 Theatre: Multiple / See updates below\n"
+            f"🎟 Format: See updates below\n\n"
             f"🚨 {len(changes)} new update(s)\n\n"
             + "\n".join(f"• {c}" for c in changes[:10])
         )
