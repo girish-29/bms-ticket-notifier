@@ -1,45 +1,61 @@
 {
   "shows": {
-    "ALUC|4404|20260830|PLATINUM": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "01:05 PM",
-      "date": "20260830",
+    "AMBH|118437|20260925|PLATINUM": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "03:45 PM",
+      "date": "20260925",
       "cat": "PLATINUM",
-      "price": "450.00",
-      "status": "1"
-    },
-    "ALUC|4404|20260830|DIRECTOR CHOICE": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "01:05 PM",
-      "date": "20260830",
-      "cat": "DIRECTOR CHOICE",
-      "price": "450.00",
+      "price": "350.00",
       "status": "0"
     },
-    "ALUC|4404|20260830|GOLD": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "01:05 PM",
-      "date": "20260830",
+    "AMBH|118437|20260925|GOLD": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "03:45 PM",
+      "date": "20260925",
       "cat": "GOLD",
-      "price": "395.00",
-      "status": "2"
+      "price": "295.00",
+      "status": "0"
     },
-    "ALUC|4404|20260830|GOLD.": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "01:05 PM",
-      "date": "20260830",
-      "cat": "GOLD.",
-      "price": "395.00",
-      "status": "3"
+    "AMBH|118437|20260925|LOUNGERS": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "03:45 PM",
+      "date": "20260925",
+      "cat": "LOUNGERS",
+      "price": "295.00",
+      "status": "0"
+    },
+    "AMBH|118435|20260925|PLATINUM": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "10:40 PM",
+      "date": "20260925",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "0"
+    },
+    "AMBH|118435|20260925|GOLD": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "10:40 PM",
+      "date": "20260925",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "0"
+    },
+    "AMBH|118435|20260925|LOUNGERS": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "10:40 PM",
+      "date": "20260925",
+      "cat": "LOUNGERS",
+      "price": "295.00",
+      "status": "0"
     }
   },
   "dates": {
-    "20260830": "BOOKABLE",
-    "20260831": "NOT_OPEN",
-    "20260901": "NOT_OPEN",
-    "20260902": "NOT_OPEN",
-    "20260903": "NOT_OPEN",
-    "20260904": "NOT_OPEN",
-    "20260905": "NOT_OPEN"
+    "20260925": "BOOKABLE",
+    "20260926": "AVAILABLE",
+    "20260927": "NOT_OPEN",
+    "20260928": "NOT_OPEN",
+    "20260929": "NOT_OPEN",
+    "20260930": "NOT_OPEN",
+    "20261001": "NOT_OPEN"
   }
 }
