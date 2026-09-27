@@ -6,7 +6,7 @@
       "date": "20260927",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "AMBH|119133|20260927|GOLD": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -14,7 +14,7 @@
       "date": "20260927",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "1"
+      "status": "0"
     },
     "AMBH|119133|20260927|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
