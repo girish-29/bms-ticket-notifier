@@ -22,13 +22,13 @@
       "date": "20261002",
       "cat": "LOUNGERS",
       "price": "295.00",
-      "status": "2"
+      "status": "0"
     }
   },
   "dates": {
     "20261002": "BOOKABLE",
     "20261003": "AVAILABLE",
-    "20261004": "NOT_OPEN",
+    "20261004": "AVAILABLE",
     "20261005": "NOT_OPEN",
     "20261006": "NOT_OPEN",
     "20261007": "NOT_OPEN",
